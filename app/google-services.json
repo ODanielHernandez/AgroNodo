@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "889294331125",
+    "firebase_url": "https://agronodo.firebaseio.com",
+    "project_id": "agronodo",
+    "storage_bucket": "agronodo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889294331125:android:3f7bb6ae5c71faec",
+        "android_client_info": {
+          "package_name": "com.agronodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889294331125-125p5gendaooutif2u21qath2leac28m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCynGK8flcZNPzI8R6DEKBuxvo9-Thgqlc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
